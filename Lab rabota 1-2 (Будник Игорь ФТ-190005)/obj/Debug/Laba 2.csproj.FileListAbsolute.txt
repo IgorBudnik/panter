@@ -1,0 +1,19 @@
+D:\УЧЕБА\Компьютерная графика\Лабы\Laba 2\obj\Debug\Laba_2.Properties.Resources.resources
+D:\УЧЕБА\Компьютерная графика\Лабы\Laba 2\obj\Debug\Laba 2.csproj.GenerateResource.Cache
+D:\УЧЕБА\Компьютерная графика\Лабы\Laba 2\obj\Debug\Laba 2.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Компьютерная графика\Лабы\Laba 2\bin\Debug\Laba 2.exe.config
+D:\УЧЕБА\Компьютерная графика\Лабы\Laba 2\bin\Debug\Laba 2.exe
+D:\УЧЕБА\Компьютерная графика\Лабы\Laba 2\bin\Debug\Laba 2.pdb
+D:\УЧЕБА\Компьютерная графика\Лабы\Laba 2\obj\Debug\Laba_2.Form1.resources
+D:\УЧЕБА\Компьютерная графика\Лабы\Laba 2\obj\Debug\Laba 2.exe
+D:\УЧЕБА\Компьютерная графика\Лабы\Laba 2\obj\Debug\Laba 2.pdb
+D:\УЧЕБА\Компьютерная графика\Лабы\Laba 2\obj\Debug\Laba 2.csprojResolveAssemblyReference.cache
+C:\Users\Игрок\source\repos\Laba 2\bin\Debug\Laba 2.exe.config
+C:\Users\Игрок\source\repos\Laba 2\bin\Debug\Laba 2.exe
+C:\Users\Игрок\source\repos\Laba 2\bin\Debug\Laba 2.pdb
+C:\Users\Игрок\source\repos\Laba 2\obj\Debug\Laba 2.csprojAssemblyReference.cache
+C:\Users\Игрок\source\repos\Laba 2\obj\Debug\Laba_2.Properties.Resources.resources
+C:\Users\Игрок\source\repos\Laba 2\obj\Debug\Laba 2.csproj.GenerateResource.cache
+C:\Users\Игрок\source\repos\Laba 2\obj\Debug\Laba 2.exe
+C:\Users\Игрок\source\repos\Laba 2\obj\Debug\Laba 2.pdb
+C:\Users\Игрок\source\repos\Laba 2\obj\Debug\Lab_rabota_2.Form1.resources
